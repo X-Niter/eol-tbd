@@ -19,7 +19,46 @@
 - Refined storage is not going to be included, instead we have AE2 with NO channels to lesson AE2's complexity along with AE2 addons to make AE2 more appeasing and fun.
 - Seed Market should be gone, on purpose to motivate the need for exploration both on the desserted earth and other planets.
 - Removed Portal gun (Sorry y'all this seems just a bit too much sci-fi like)
-- Lootr will no longer use it's own texture for containers, containers will keep there defaults but lootr will handle there loot.
+- Lootr will no longer use its own texture for containers, containers will keep there defaults but lootr will handle there loot.
+- 1 and 50 chance hostile entity drops salve, plaster, or a bandage
+- Sleeping can heal up to 2 hearts
+- Enchanted Medikit heal for 3
+- Plaster heals for 1.1
+- Salve heals for 1.2
+- Medikit heals for 1.8
+- bandages can only be used once
+- enchanted medikits can be used 4 times
+- medikits can be used 2 times
+- plaster can be used for 4 times
+- salves can be used twice
+- Item and Experience have a stacking range of 4 blocks radius
+- Experience will be stacked up to 2048
+- Items will be stacked up to 128
+- If the amount of entities surpasses 2000 then stacking will be disabled
+- 1/50 chance for a skeleton in a non-Hell biome to be a Wither Skeleton
+- 3 extra wither skeletons are spawned when one would be.
+- Immolation Blade Damage is 18
+- RF Capacity for Portable Temperature Regular: 25000
+- 25 RF per tick is consumed while the portable temp regulator is actively regulating temperature
+- RF Capacity of Temperator Regulator Block: 500000
+- Effective radius of Temperature Regulator Block set to max 40
+- 250 RF per tick is consumed while the temp regulator block is actively regulating temperature
+- RF Capacity for Thirst Quencher: 25000
+- ThirstQuencherRFPerTick: 25
+- ThirstQuencherWaterCapacity: 32 buckets
+- Zombie players now spawn naturally and after you die
+- Player zombies can pickup loot when hostile
+- allowEmissiveItems: false
+- selectiveResourceReloadEnabled:true
+- disableVersionCheck:true
+- removeErroringEntities:true
+- removeErroringTileEntities:true
+- zombieBaseSummonChance 0.3
+- zombieBabyChance:0.1
+- logCascadingWorldGeneration:false
+- fixVanillaCascading:true
+- Global version checking is disabled
+- casingsActiveEmissiveTextures=true
 
 ## [1.1.0 & 1.0.0]
 - The initial publish for the community
