@@ -1,3 +1,24 @@
+## [1.4.0]
+- Removed Advanced Rocketry Tweaker (`Not used`)
+- Removed ProjectE Integration (`A bit OP for the game play we want for players`)
+- Removed CalmDownZombieGuy
+- Removed BowInfinityFix
+- Removed ClearSpam
+- Removed Immersive Combat (`Caused Breaking Rendering`)
+- Removed LoginHPFix
+- Removed Better Biome Blend
+- Removed CustomWindowTitle-Legacy
+- Removed Eyes In The Darkness (`Some players felt this was kinda silly and not needed`)
+- Removed Iceberg
+- Removed mtqfix (`Server Side does this already`)
+- Remove smooth-scrolling-everywhere
+- Added Entity Culling (`ClientSide Only`)
+- Added RenderLib (`EntityCulling Lib`) (`ClientSide Only`)
+- Updated AE2 Wireless Terminal-LTS (`Fixes CretiveTab Crashing`)
+- pewdiepie voice stuff is freezing the game (`It's the intense world gen and memory issue, look below`)
+- The potential memory leak noticed may be resolved (`Attempt 1`)
+- New modpack logo
+
 ## [1.3.1]
 - Removed LoliASM
 - Added Phosphor
