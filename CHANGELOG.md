@@ -1,3 +1,12 @@
+## [1.3.1]
+- Removed LoliASM
+- Added Phosphor
+- Added Performant
+- Added Particle Culling
+- Removed RenderLib
+- Updated AE2 Unofficial Extended Life
+- Added Devious server to Multiplayer list
+
 ## [1.3.0]
 - Removed Entity Culling
 - Removed Particle Culling
