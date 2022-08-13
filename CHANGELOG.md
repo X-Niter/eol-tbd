@@ -6,7 +6,8 @@
 - Removed RenderLib
 - Updated AE2 Unofficial Extended Life
 - Added Devious server to Multiplayer list
-- Fix #1 and #3
+- Fix #1
+- Fix #3
 
 ## [1.3.0]
 - Removed Entity Culling
