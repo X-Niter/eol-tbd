@@ -1,3 +1,20 @@
+## [1.3.0]
+- Removed Entity Culling
+- Removed Particle Culling
+- Update 7DTM-Integrations
+- Removed FastFurnace
+- Remove Surge
+- Remove Chunk Animator
+- Remove Cleanse
+- Removed Clumps
+- Removed Mouse Tweaks
+- Added dan's Mouse Tweaks
+- Added Dan's Crafting Tweaks
+- Remove Phosphor
+- Remove DynView
+- Remove Performant
+- Lootr no longer sets a timer for a lootr chest to delete it self after first being opened
+
 ## [1.2.0]
 - AssetMover was added then removed.
 - 7DTM mod that is added now has my DTM-Integration mod added to the pack which is used for making 7DTM to work better with other mods.
