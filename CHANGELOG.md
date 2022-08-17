@@ -1,3 +1,9 @@
+## [1.5.0]
+- Update AE2 Unofficial Extended Life
+- Updated CraftTweaker2
+- Updated SCP: Lockdown
+- Updated AE2 Wireless Terminal-LTS
+
 ## [1.4.1]
 - Removed Default Options
 - Removed HEI
@@ -13,7 +19,7 @@
 - Removed ProgressiveBosses
 - Removed Stackie
 - Added Surge
-- Remove CesnoredASM
+- Remove CensoredASM
 - Added VanillaFix
 - Removed MoBends (`You can still add this, but I don't want to force fancy rendering`)
 
