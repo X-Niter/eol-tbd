@@ -1,3 +1,102 @@
+## [1.6.0-`The One That Changed The Game`]
+- Removed more null textures from JEI menu (We don't need to see those)
+- Removed items & Blocks that are disabled from JEI (No use seeing these either)
+- Removed BoneMeal from FarmingForBlockHeads market
+- fpsreducer suppression volume `20 > 10`
+- Guide-API turned off spawning in with books
+- Updated AE2 Unofficial Extended Life `0.53.1 > 0.53.2`
+- Updated GregTech CE: Unofficial `1.12.2-2.3.4 > 1.12.2-2.4.0`
+- Updated Gregicality Multiblocks `1.12.2-1.1.2 > 1.12.2-1.1.4`
+- Removed AE2 Additional Opportunity
+- Added More Overlays mod
+- Tough As Nails configs back to default (Potentially was too difficult the way it was configured)
+- Removed Vanilla Fix(`Causing Multiplayer crashes`)
+- Added CensoredASM
+- Removed JEI
+- Added HEI(`A JEI fork with more work and optimization done`)
+- Loot bag drops only happen if a player or fake player is killing the mob, a mob killing them self will no longer drop loot bags
+- Loot bag drop chance `0.1% > 1%`
+- Disabled NuclearCraft greg tech integration due to current incompatibility causing a crash.
+- Added `MPUtils Basic Tools`, This adds in game changelogs and in game issue submitting to GitHub repo
+- Added Tool Tweaks
+- Removed (Hopefully all) unneeded and uncraftable items/blocks from JEI that are not helpful when it comes to recipes
+- Regenerated the AE2 config as it already has channel disabling features (Meaning we can remove AE2 Additional Opportunity)
+- AE2 Smart, Dense, and Covered cables are removed, no channels exist so using glass/fluix cables is perfectly fine.
+- HardCoreDarkness GammaOverride `-1.0 > 0.1`
+- HardCoreDarkness Light is now dependent on moon phase
+- Parasite spawning no longer ignores sunlight
+- All Minecraft entities will try to avoid any parasites
+- Ancient Dreadnaut Armor Multiplier `1.0 > 0.6`
+- Ancient Dreadnaut Damage Multiplier `1.0 > 0.5`
+- Ancient Dreadnaut Flight Height Limit `256 > 200`
+- Ancient Dreadnaut Health Multiplier `1.0 > 0.6`
+- Ancient Dreadnaut Knockback Resistance Multiplier `1.0 > 0.5`
+- Ancient Dreadnauts now drop nether stars
+- Removed a rupter spawn entry from Ancient Dreadnauts Mob List
+- Added `mothman, jeffthekiller, infected_survivor, & infected_bat` to Ancient Dreadnauts Mob List
+- Ancient Dreadnaut Pod Cooldown `12 > 32`
+- Ancient Overlord Armor Multiplier `1.0 > 0.6`
+- Ancient Overlord Damage Multiplier `1.0 > 0.5`
+- Ancient Overlord Health Multiplier `1.0 > 0.6`
+- Ancient Overlord Knockback Resistance Multiplier `1.0 > 0.8`
+- Light Bomber Armor Multiplier `1.0 > 0.6`
+- Light Bomber Bomb Damage `12 > 8`
+- Light Bomber Damage Multiplier `1.0 > 0.6`
+- Light Bomber Flight Height Limit `256 > 200`
+- Light Bomber Griefing disabled
+- Light Bomber Health Multiplier `1.0 > 0.7`
+- Light Bomber Knockback Resistance Multiplier `1.0 > 0.6`
+- Buglin SpawnWeight `30 > 25`
+- Flying Carrier Flight Height Limit `256 > 200`
+- Host SpawnWeight `30 > 25`
+- Marauder SpawnWeight `0 > 1`
+- Overseer Flight Height Limit `256 > 200`
+- Overseer Knockback Resistance Multiplier `1.0 > 0.6`
+- Overseer Health Multiplier `1.0 > 0.4`
+- Overseer Damage Multiplier `1.0 > 0.1`
+- Overseer Armor Multiplier `1.0 > 2.0`
+- Overseer Melee Damage `45 > 30`
+- Rupter Armor Multiplier `1.0 > 0.1`
+- Rupter Damage Multiplier `1.0 > 0.1`
+- Rupter Health Multiplier `1.0 > 0.1`
+- Rupter Knockback Resistance Multiplier `1.0 > 0.1`
+- Rupter SpawnWeight `30 > 25`
+- Sentry Health Multiplier `1.0 > 0.4`
+- Sentry Armor Multiplier `1.0 > 0.1`
+- Assimilated Bear SpawnWeight `30 > 28`
+- Big Spider Ranged Damage Multiplier `1.0 > 0.7`
+- Assimilated Enderman Armor Multiplier `1.0 > 0.1`
+- Assimilated Enderman Damage Multiplier `1.0 > 0.4`
+- Assimilated Enderman Health Multiplier `1.0 > 0.3`
+- Assimilated Enderman Knockback Resistance Multiplier `1.0 > 0.4`
+- Assimilated Enderman Teleport Frequency `2 > 10`
+- Assimilated Human SpawnWeight `30 > 15`
+- Vigilante SpawnWeight `0 > 1`
+- Warden SpawnWeight `0 > 1`
+- Stage Adapted additional Damage `20 > 12`
+- Stage Adapted additional Health `50 > 30`
+- Primitive Summoner summoning Cooldown `10 > 40`
+- Stage Adapted additional Health `60 > 50`
+- Scent Mob Cap `30 > 20`
+- Scent Observer Mode LifeSpan `60 > 30`
+- Scent Tactical Mode Lifespan `300 > 150`
+- Fix [#4](https://github.com/X-Niter/eol-tbd/issues/4)
+- Fix [#5](https://github.com/X-Niter/eol-tbd/issues/5)
+- Fix [#8](https://github.com/X-Niter/DTM-Integrations/issues/8)
+- Fix [#7](https://github.com/X-Niter/DTM-Integrations/issues/7)
+- Fix [#6](https://github.com/X-Niter/DTM-Integrations/issues/6)
+- Added Toast Control to disable the annoying toasts
+- Added Thermal Dynamics to bring logistics into play
+- Added Thermal Tinkers for more Tinkers Construct options
+- Added EnderIO for more logistics and player tech growth
+- Added Research Table
+- Made Parasite Evolution warnings more clear in chat.
+- Fix [#9](https://github.com/X-Niter/DTM-Integrations/issues/9)
+- Added XP Orb Clumps
+- Instead of relying on KeepInventory, When you die, you'll always get a Grave Key that will teleport you to your grave!
+- Death screen should be skipped now thanks to Corail Tombstone
+- Updated DTMIntegrations - a very nice update!
+
 ## [1.5.0]
 - Update AE2 Unofficial Extended Life
 - Updated CraftTweaker2
