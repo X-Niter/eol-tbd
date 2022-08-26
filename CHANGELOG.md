@@ -96,6 +96,7 @@
 - Instead of relying on KeepInventory, When you die, you'll always get a Grave Key that will teleport you to your grave!
 - Death screen should be skipped now thanks to Corail Tombstone
 - Updated DTMIntegrations - a very nice update!
+- Updated Xaero's World Map `1.26.5`
 
 ## [1.5.0]
 - Update AE2 Unofficial Extended Life
